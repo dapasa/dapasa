@@ -10,11 +10,4 @@ I'm a experienced technology specialist adept in all stages of software build an
 - **Databases:** Postgres, MySQL, SQL Server
 - **Operating Systems:** Linux, Windows
 
-## Language Skills
-
-- **English:** Professional proficiency
-- **Italian:** Basic
-
-
   [![roadmap.sh](https://roadmap.sh/card/tall/665e3b54b998f3b3c781a21d?variant=dark)](https://roadmap.sh)
-
